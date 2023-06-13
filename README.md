@@ -52,8 +52,3 @@ NOTE: You don't have to use any pre-trained model using Transfer learning. All t
   - Choose an appropriate optimiser and loss function for model training
   - Train the model for ~30 epochs
   - Write your findings after the model fit, see if the issues are resolved or not?
- 
-
- 
-
-The model training may take time to train and hence you can use Google colab.
